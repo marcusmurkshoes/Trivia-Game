@@ -1,0 +1,43 @@
+body {
+
+background-image: url("../images/background.jpg");
+
+}
+
+#questionLayout {
+
+	background-color: white;
+
+	width: 720px;
+	height: 500px;
+	margin-left: 330px;
+}
+
+#totallyTrivia {
+
+	color: blue;
+	text-align: center;
+
+}
+
+#timerCountdown {
+	text-align: center;
+}
+
+#question1 {
+	text-align: center;
+}
+
+#question2 {
+
+	text-align: center;
+}
+
+#true {
+	margin-left: 320px;
+float: left;
+}
+
+#false {
+	
+}
